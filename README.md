@@ -21,6 +21,7 @@
 навіть аморальну інформацію...</h3><h3>
 Сьогодні християнські Церкви гідно ведуть боротьбу за віртуальний простір!
   </h3>
+  <img src="https://drive.google.com/file/d/154hwH5bX7Sh-8hHNeIWIi9ztESMWCYid/view?usp=sharing">
  <a  href="https://archiwizard.github.io/Ua/"><img src="https://drive.google.com/file/d/154hwH5bX7Sh-8hHNeIWIi9ztESMWCYid/view?usp=sharing"></a>
 </body>
 <!---
