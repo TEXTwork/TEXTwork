@@ -28,8 +28,7 @@
   <stop offset="0%" style="stop-color:rgb(200,200,225); stop-opacity:1"/>
   <stop offset="40%" style="stop-color:rgb(3,120,50); stop-opacity:1"/>
   <stop offset="80%" style="stop-color:rgb(70,250,100); stop-opacity:1"/>
-  <stop offset="100%" style="stop-color:rgb(90,150,120); stop-opacity:1"/>
-  
+  <stop offset="100%" style="stop-color:rgb(90,150,120); stop-opacity:1"/>  
   </defs>
 <rect width="500" height="100" rx="0" ry="0" fill="url(#grad1)" />
 <text x="150" y="50" font-size="20" fill="white">РОБОТА З ТЕКСТОМ</text>
